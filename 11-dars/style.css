@@ -1,0 +1,74 @@
+
+
+
+.coolor{
+    color: green;
+}
+
+h1{
+    border: 2px;
+    color: red;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(64, 84, 197);
+    border: 2px solid red;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+h4{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+    
+}
+.novv{
+    border: 2px; solid red 
+    border-radius: 20px;
+}
+
+h5{
+    color: green;
+}
+
+h6{
+    color: green;
+}
+.submit button{
+    padding: 10px 20px;
+    background-color: #0078d7;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    border: 1px solid black;
+}
+td {
+    padding: 8px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.ok{
+    background-color: blue;
+    color: white;
+}
+
+.gugu{
+    text-align: center;
+    color: green;
+    background-color:yellow;
+}
